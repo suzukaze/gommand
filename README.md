@@ -1,6 +1,8 @@
 gommand
 =======
 
+go get -v golang.org/x/tools/cmd/godoc
+
 Go one liner program, similar to python -c
 
 How to get it?
